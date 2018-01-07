@@ -10,7 +10,11 @@
     $ pip install -r requirements.txt
     $ python3 run.py
 
+## Présentation
+
 A simple Flask webinterface for configuring and running [DarkIce](http://darkice.org/) ([Github](https://github.com/rafael2k/darkice)).
+
+## Captures d'écran
 
 ![Screenshot Overview](/screenshot_overview.png?raw=true "Screenshot")
 
