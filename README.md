@@ -2,9 +2,9 @@
 
 ## Préparation
 
-    $ sudo apt-get install python3-pip git
-    $ sudo pip3 install flask
-    $ sudo pip3 install flask-wtf
+    $ sudo apt-get install python-pip git
+    $ sudo pip install flask
+    $ sudo pip install flask-wtf
     $ git clone https://github.com/nvalis/DarkiceWebinterface.git
     $ cd DarkiceWebinterface
     $ pip install -r requirements.txt
