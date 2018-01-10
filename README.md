@@ -16,7 +16,7 @@ Le fichier run.py a été modifié pour pouvoir accéder à l'interface depuis n
 
 ## Auto-start
 
-    $ sudo nano darkice.sh
+    $ sudo nano darkicew.sh
     
 Copiez le texte suivant :
 
@@ -33,7 +33,7 @@ Enregistrez et quittez
    
 Et ajoutez la ligne suivante :
 
-    */5 * * * * /bin/bash /home/pi/darkicewebinterface.sh > /home/pi/dwi.log 2>&1
+    */5 * * * * /bin/bash /home/pi/darkicew.sh > /home/pi/darkicew.log 2>&1
 
 ## Présentation
 
